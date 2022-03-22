@@ -1,0 +1,19 @@
+.header {
+  flex-direction: column;
+}
+.searcharea {
+  flex-direction: column;
+}
+.nav {
+  flex-direction: column;
+  background-color: rgba(0.3, 0.3, 0.3, 0.3);
+}
+.intro_text {
+  display: none;
+}
+
+.nav > li:hover {
+  padding: 5px;
+  background-color: aquamarine;
+  margin-left: 0px;
+}
